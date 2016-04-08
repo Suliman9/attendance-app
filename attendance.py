@@ -17,7 +17,5 @@ while True:
 
     else:
         print(s[entry]['name'] + ' scanned in at ' + t.strftime('%H:%M\n', t.localtime()))
-        s[entry]['attendance'].append(t.time())
-
-
-
+        s[entry]['attendance'].append(t.ti
+"Oh yea" 
